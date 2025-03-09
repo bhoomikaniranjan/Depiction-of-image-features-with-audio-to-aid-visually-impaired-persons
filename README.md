@@ -34,14 +34,6 @@ This project is designed to make visual content accessible to visually impaired 
 - Use in education and assistive technologies.  
 - Real-time applications for image and video captioning.
 
----
-
-## Future Enhancements  
-- **Customizable Voice Options**: Allow users to select different voices and accents.  
-- **Real-Time Processing**: Enable live image and video description.  
-- **Mobile App Development**: Expand accessibility through iOS and Android applications.  
-- **Data Privacy**: Implement robust security measures for user data.
-
 
 ---
 
